@@ -17,4 +17,4 @@ if(($bal>=81)&&($bal<=99))
 	echo("zdav na 5");
 	
 if($bal==100)
-	echo("Zdav na vsi 100");
+	echo("zdav na vsi 100");
